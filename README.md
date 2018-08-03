@@ -3,7 +3,7 @@
 A simple utility to generate a SHA-256 hash based on user input. Good to use for creating a more complex password for your Tinder account. 
 
 ### Instructions
-From command line, just `cd` into the directory and run `go run genhash.go -i "whatever string you want to hash`.
+From command line, just `cd` into the directory and run `go run genhash.go -i "whatever string you want to hash"`.
 
 example input:
 `go run genhash.go -i "dickbutt"`
